@@ -1,0 +1,11 @@
+.vs/
+
+x64/
+
+obj_viewer/obj_viewer.vcxproj
+obj_viewer/obj_viewer.vcxproj.filters
+obj_viewer/obj_viewer.vcxproj.user
+
+obj_viewer/x64/
+
+obj_viewer.sln
