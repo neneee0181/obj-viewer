@@ -27,7 +27,7 @@ If the .obj file is located in a folder, please enter the file name along with i
 - Use the arrow keys to rotate the model.
 - Use the - (minus) and + (plus) keys to zoom out and zoom in, respectively.
 
-![img2](./img/img2.png)
 ![img1](./img/img1.png)
+![img2](./img/img2.png)
 
 Feel free to use this program as you wish!
