@@ -44,6 +44,12 @@ void keyDown(unsigned char key, int x, int y) {
         std::cout << " 프로그램 종료 " << std::endl;
         exit(0);
         break;
+    case '+':
+        cameraPos += glm::vec3(0.0f, 0.0f, -1.0f);
+        break;
+    case '-':
+        cameraPos += glm::vec3(0.0f, 0.0f, 1.0f);
+        break;
     default:
         break;
     }
